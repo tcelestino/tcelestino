@@ -1,7 +1,7 @@
 ### 👋 Hello, I'm Tiago Celestino!
 
-- 🏢 I'm currently working at **[@catho](https://github.com/catho)**
-- 💻 Team Lead
+- 🏢 I'm open to work
+- Former team lead at **[@catho](https://www.catho.com.br)**
 - 🏡 From Salvador, BA
 - ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`, `.yml`
 - 🌱 Learning about **Management**, **Agile**
